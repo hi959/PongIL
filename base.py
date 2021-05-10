@@ -1,5 +1,4 @@
 import random
-import os
 from flask import Flask, render_template, url_for, redirect, request
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, IntegerField, FileField, FloatField
