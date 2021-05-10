@@ -1,1 +1,1 @@
-web: gunicorn pub_main:base
+web: gunicorn app:base
